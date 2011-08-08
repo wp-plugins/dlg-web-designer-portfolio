@@ -4,7 +4,7 @@ Donate link: http://dlgresults.com/
 Tags: portfolio, client portfolio, web design portfolio, web developer portfolio
 Requires at least: 2.0.2
 Tested up to: 3.2.1
-Stable tag: 4.3
+Stable tag: 1.0
 
 The plugin gives you control over the layout in which you want to display your portfolio items. It currently supports 3 modes of displaying, flash view, icon view and list view. We plan on keeping this plugin up to date adding new features so any request feel free to post on our website or in the forums.
 
